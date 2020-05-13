@@ -1,0 +1,10 @@
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\Direct.UserInfo.Library.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\Direct.UserInfo.Library.pdb
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\Direct.Shared.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\Direct.Shared.Library.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\log4net.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\obj\Debug\Direct.UserInfo.Library.csprojAssemblyReference.cache
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\obj\Debug\Direct.UserInfo.Library.csproj.CopyComplete
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\obj\Debug\Direct.UserInfo.Library.dll
+C:\Users\martijn\source\repos\Direct.UserInfo.Library\Direct.UserInfo.Library\obj\Debug\Direct.UserInfo.Library.pdb
